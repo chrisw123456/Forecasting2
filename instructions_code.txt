@@ -1,0 +1,14 @@
+Forecasting_Script Code Modifications
+
+1)
+# Remove all dates from August 2021 and later (SHOULD BE CHANGED AS)
+data <- data %>% filter(Date < "2021-08-01")
+    * Keep all dates before August 2021. 
+    * Should be changed based on current month (July as of today)
+    
+2)
+# Remove Product and subproduct column, since we already created a combined column
+data <- data[ , -which(names(data) %in% c("Product","Sub.Product"))]
+    * Make sure the names of prod/subprod are above
+    
+3)
