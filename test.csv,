@@ -1,0 +1,481 @@
+"Date","Scenario","Product","Sub.Product","Volumes","c1_sarima1"
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",52567,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",45137,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",50092,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",51663,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",46423,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",46858,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",56177,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",53765,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",43548,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",48903,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",43056,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",42360,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",46422,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",40228,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",43939,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",44514,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",40744,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",45531,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",44681,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",45421,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",44907,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",44482,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",36647,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",37547,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",40239,40239
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",35599,35599
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",37235,40239
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",36509,35599
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",30522,40239
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,40239
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","FL_TX",0,35599
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",44454,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",38829,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",37666,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",38877,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",40585,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",41584,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",49638,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",49638,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",39510,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",39115,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",33102,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",33355,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",38143,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",32056,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",35680,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",39462,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",35628,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",39813,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",41608,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",43793,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",38115,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",36903,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",32646,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",32647,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",32777,32777
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",27426,27426
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",30499,32777
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",29162,27426
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",25174,32777
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,32777
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","NORTHEAST",0,27426
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",48041,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",39521,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",41310,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",44938,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",43220,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",42784,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",53405,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",52941,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",44996,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",44935,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",36986,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",36269,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",43622,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",38129,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",42641,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",46417,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",44533,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",46446,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",47546,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",48200,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",46685,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",44926,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",37945,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",37642,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",39680,39680
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",34830,34830
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",38732,39680
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",36628,34830
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",30760,39680
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,39680
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","EAST","SOUTHEAST",0,34830
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",33365,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",30394,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",36484,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",35496,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",39205,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",38880,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",42390,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",44817,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",38547,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",39778,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",29734,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",30887,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",34486,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",28604,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",34279,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",39185,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",36601,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",38423,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",38828,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",39536,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",38641,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",35154,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",29985,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",31164,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",29962,29962
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",24657,24657
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",29866,29962
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",28631,24657
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",26407,29962
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,29962
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","HEARTLAND",0,24657
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",30124,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",24803,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",29790,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",28860,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",26895,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",25756,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",29394,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",29683,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",27177,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",28245,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",22952,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",24828,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",26878,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",23060,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",25352,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",27496,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",25246,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",26714,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",26567,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",26583,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",27061,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",27593,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",25071,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",24573,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",25012,25012
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",24311,24311
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",23610,25012
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",20757,24311
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",17963,25012
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,25012
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","OR_ID",0,24311
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",29078,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",25654,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",37366,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",36118,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",36326,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",37023,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",42939,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",43664,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",43729,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",39790,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",27370,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",28501,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",29220,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",23845,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",31501,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",37019,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",32999,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",38888,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",39128,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",35877,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",34517,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",32319,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",26559,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",25987,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",22746,22746
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",19885,19885
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",22585,22746
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",24554,19885
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",22112,22746
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,22746
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","UPPER MIDWEST",0,19885
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",28433,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24108,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",27091,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",27642,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",25582,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",25157,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",27918,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",28303,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",26901,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",28133,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",23179,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",23275,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",26274,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",23877,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24301,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24534,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",23410,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",26292,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",25421,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24751,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24923,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",27346,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",22915,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",23292,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",24726,24726
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",21416,21416
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",20286,24726
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",19653,21416
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",17386,24726
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,24726
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","NORTHERN","WA_MT",0,21416
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",45565,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",39094,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",41412,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",39175,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",39036,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",40985,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",46025,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",49240,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",43530,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",43962,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",40116,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",39700,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",40182,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",34040,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",38672,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",43733,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",40684,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",41621,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",44784,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",48016,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",42185,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",39760,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",34250,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",34786,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",33834,33834
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",31221,31221
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",31044,33834
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",30132,31221
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",26062,33834
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,33834
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","AZ",0,31221
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",40395,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",34350,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",43839,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",43352,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",45393,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",45272,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",50637,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",51804,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",42559,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",43066,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",34825,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",36224,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",38236,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",33172,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",38736,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",41145,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",40645,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",45277,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",44720,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",43195,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",40885,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",39717,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",35273,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",35692,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",32903,32903
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",30096,30096
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",32576,32903
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",33963,30096
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",32514,32903
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,32903
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","GREAT PLAINS",0,30096
+"2019-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",36046,0
+"2019-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",30804,0
+"2019-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34229,0
+"2019-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34596,0
+"2019-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34825,0
+"2019-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34116,0
+"2019-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",37667,0
+"2019-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",39137,0
+"2019-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34026,0
+"2019-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34243,0
+"2019-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",29840,0
+"2019-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",32823,0
+"2020-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",31877,0
+"2020-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",28728,0
+"2020-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",33715,0
+"2020-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",34494,0
+"2020-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",30982,0
+"2020-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",32219,0
+"2020-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",33506,0
+"2020-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",33870,0
+"2020-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",33949,0
+"2020-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",29996,0
+"2020-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",26150,0
+"2020-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",26106,0
+"2021-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",25277,25277
+"2021-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",24107,24107
+"2021-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",24890,25277
+"2021-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",24396,24107
+"2021-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",21108,25277
+"2021-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2021-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2021-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2021-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2021-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2021-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2021-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-01-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-02-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-03-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-04-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-05-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-06-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-07-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-08-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-09-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-10-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
+"2022-11-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,25277
+"2022-12-01","Field Ops - Mass Markets - Test 7/7/2021","SOUTHWEST","NV_UT_NM",0,24107
